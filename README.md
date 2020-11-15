@@ -2,8 +2,6 @@
 
 This is the first file in this repo. 
 
-##Ipsum Below
+##Website contents
 
-Allo Ming
-
-Bare minimum additions
+1. Anything
